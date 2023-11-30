@@ -17,7 +17,7 @@ Install MusicAI with npm
 from APIMusicAI import MusicAI
 
 partition_finder = MusicAI(USER_KEY)
-midi = music_finder.findMIDI(audio_path)
+midi = partition_finder.findMIDI(audio_path)
 
 #Process to show the Midi File
 ```
