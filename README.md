@@ -8,7 +8,7 @@ Music AI is a python app that use AI to find and extract the piano partition of 
 Install MusicAI with npm
 
 ```bash
-  pip add APIMusicAI
+  pip install APIMusicAI
 ```
     
 ## Usage/Examples
